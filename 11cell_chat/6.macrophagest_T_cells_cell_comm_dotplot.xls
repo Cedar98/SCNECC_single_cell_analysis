@@ -1,0 +1,193 @@
+pair	clusters	pvalue	mean
+CD74|APP	FOLR2+ macrophages|CD8+ cytotoxic T cells (GNLY+)	1	1.0820212693455
+FPR3|ANXA1	FOLR2+ macrophages|CD8+ cytotoxic T cells (GNLY+)	9e-04	0.809002774939086
+FPR1|ANXA1	FOLR2+ macrophages|CD8+ cytotoxic T cells (GNLY+)	9e-04	0.485426827170242
+ERBB4|EREG	FOLR2+ macrophages|CD8+ cytotoxic T cells (GNLY+)	1	-2.47393118833241
+CRTAM|CADM1	CD8+ cytotoxic T cells (GNLY+)|FOLR2+ macrophages	0.84	-1.07096652135414
+CCR1|CCL5	FOLR2+ macrophages|CD8+ cytotoxic T cells (GNLY+)	9e-04	0.70310069960416
+CD52|SIGLEC10	CD8+ cytotoxic T cells (GNLY+)|FOLR2+ macrophages	9e-04	-0.0724827538015237
+CD86|CTLA4	CD8+ cytotoxic T cells (GNLY+)|FOLR2+ macrophages	1	-6.187682969289
+CXCR4|CXCL12	FOLR2+ macrophages|CD8+ cytotoxic T cells (GNLY+)	1	-0.730309873506487
+KLRC1|HLA-E	FOLR2+ macrophages|CD8+ cytotoxic T cells (GNLY+)	1	-0.356780448564572
+KLRK1|HLA-E	FOLR2+ macrophages|CD8+ cytotoxic T cells (GNLY+)	1	-0.351074440546879
+CD2|CD58	FOLR2+ macrophages|CD8+ cytotoxic T cells (GNLY+)	1	-1.91593573521153
+CD22|PTPRC	FOLR2+ macrophages|CD8+ cytotoxic T cells (GNLY+)	9e-04	0.498761465671852
+MRC1|PTPRC	FOLR2+ macrophages|CD8+ cytotoxic T cells (GNLY+)	9e-04	0.725959234509188
+SEMA4D|PTPRC	CD8+ cytotoxic T cells (GNLY+)|FOLR2+ macrophages	9e-04	-0.0831412353002459
+CD44|TYROBP	FOLR2+ macrophages|CD8+ cytotoxic T cells (GNLY+)	1	-0.0923401721467106
+CD74|APP	SPP1+ macrophages|CD8+ cytotoxic T cells (GNLY+)	1	0.176322772640463
+FPR3|ANXA1	SPP1+ macrophages|CD8+ cytotoxic T cells (GNLY+)	9e-04	0.566571640626761
+FPR1|ANXA1	SPP1+ macrophages|CD8+ cytotoxic T cells (GNLY+)	9e-04	0.410341104614087
+ERBB4|EREG	SPP1+ macrophages|CD8+ cytotoxic T cells (GNLY+)	1	-2.82623293226329
+CRTAM|CADM1	CD8+ cytotoxic T cells (GNLY+)|SPP1+ macrophages	0.996	-1.55215635563791
+CCR1|CCL5	SPP1+ macrophages|CD8+ cytotoxic T cells (GNLY+)	9e-04	0.669026765509631
+CD52|SIGLEC10	CD8+ cytotoxic T cells (GNLY+)|SPP1+ macrophages	9e-04	-0.0985055449524251
+CD86|CTLA4	CD8+ cytotoxic T cells (GNLY+)|SPP1+ macrophages	1	-9.42776035565245
+CXCR4|CXCL12	SPP1+ macrophages|CD8+ cytotoxic T cells (GNLY+)	1	-1.44754692892531
+KLRC1|HLA-E	SPP1+ macrophages|CD8+ cytotoxic T cells (GNLY+)	1	-0.356780448564572
+KLRK1|HLA-E	SPP1+ macrophages|CD8+ cytotoxic T cells (GNLY+)	1	-0.352915787371046
+CD2|CD58	SPP1+ macrophages|CD8+ cytotoxic T cells (GNLY+)	1	-2.04692104738749
+CD22|PTPRC	SPP1+ macrophages|CD8+ cytotoxic T cells (GNLY+)	1	0.488515008957812
+MRC1|PTPRC	SPP1+ macrophages|CD8+ cytotoxic T cells (GNLY+)	9e-04	0.748461233004035
+SEMA4D|PTPRC	CD8+ cytotoxic T cells (GNLY+)|SPP1+ macrophages	9e-04	-0.390245037827557
+CD44|TYROBP	SPP1+ macrophages|CD8+ cytotoxic T cells (GNLY+)	1	0.36289064266586
+CD74|APP	FOLR2+ macrophages|CD8+ cytotoxic T cells (GZMK+)	1	1.07519031415522
+FPR3|ANXA1	FOLR2+ macrophages|CD8+ cytotoxic T cells (GZMK+)	9e-04	0.509949146304311
+FPR1|ANXA1	FOLR2+ macrophages|CD8+ cytotoxic T cells (GZMK+)	9e-04	0.0989584800881688
+ERBB4|EREG	FOLR2+ macrophages|CD8+ cytotoxic T cells (GZMK+)	1	-2.48196850739783
+CRTAM|CADM1	CD8+ cytotoxic T cells (GZMK+)|FOLR2+ macrophages	9e-04	-0.286304185156641
+CCR1|CCL5	FOLR2+ macrophages|CD8+ cytotoxic T cells (GZMK+)	9e-04	0.593592805864596
+CD52|SIGLEC10	CD8+ cytotoxic T cells (GZMK+)|FOLR2+ macrophages	9e-04	-0.828793172581858
+CD86|CTLA4	CD8+ cytotoxic T cells (GZMK+)|FOLR2+ macrophages	1	-5.79585928321977
+CXCR4|CXCL12	FOLR2+ macrophages|CD8+ cytotoxic T cells (GZMK+)	1	-0.730309873506487
+KLRC1|HLA-E	FOLR2+ macrophages|CD8+ cytotoxic T cells (GZMK+)	1	-0.417927531370964
+KLRK1|HLA-E	FOLR2+ macrophages|CD8+ cytotoxic T cells (GZMK+)	1	-0.41119543298445
+CD2|CD58	FOLR2+ macrophages|CD8+ cytotoxic T cells (GZMK+)	1	-2.25153876699596
+CD22|PTPRC	FOLR2+ macrophages|CD8+ cytotoxic T cells (GZMK+)	9e-04	0.413594082409175
+MRC1|PTPRC	FOLR2+ macrophages|CD8+ cytotoxic T cells (GZMK+)	9e-04	0.6535186707536
+SEMA4D|PTPRC	CD8+ cytotoxic T cells (GZMK+)|FOLR2+ macrophages	9e-04	-0.150400988848548
+CD44|TYROBP	FOLR2+ macrophages|CD8+ cytotoxic T cells (GZMK+)	1	-0.186064929518683
+CD74|APP	SPP1+ macrophages|CD8+ cytotoxic T cells (GZMK+)	1	0.16478627814334
+FPR3|ANXA1	SPP1+ macrophages|CD8+ cytotoxic T cells (GZMK+)	9e-04	0.205392512989685
+FPR1|ANXA1	SPP1+ macrophages|CD8+ cytotoxic T cells (GZMK+)	9e-04	0
+ERBB4|EREG	SPP1+ macrophages|CD8+ cytotoxic T cells (GZMK+)	1	-2.83650126771712
+CRTAM|CADM1	CD8+ cytotoxic T cells (GZMK+)|SPP1+ macrophages	9e-04	-0.545824106814198
+CCR1|CCL5	SPP1+ macrophages|CD8+ cytotoxic T cells (GZMK+)	9e-04	0.556797246592743
+CD52|SIGLEC10	CD8+ cytotoxic T cells (GZMK+)|SPP1+ macrophages	9e-04	-0.873027143742234
+CD86|CTLA4	CD8+ cytotoxic T cells (GZMK+)|SPP1+ macrophages	1	-7.38082178394093
+CXCR4|CXCL12	SPP1+ macrophages|CD8+ cytotoxic T cells (GZMK+)	1	-1.44754692892531
+KLRC1|HLA-E	SPP1+ macrophages|CD8+ cytotoxic T cells (GZMK+)	1	-0.417927531370964
+KLRK1|HLA-E	SPP1+ macrophages|CD8+ cytotoxic T cells (GZMK+)	1	-0.413115187147815
+CD2|CD58	SPP1+ macrophages|CD8+ cytotoxic T cells (GZMK+)	1	-2.41888982477445
+CD22|PTPRC	SPP1+ macrophages|CD8+ cytotoxic T cells (GZMK+)	1	0.402722176845605
+MRC1|PTPRC	SPP1+ macrophages|CD8+ cytotoxic T cells (GZMK+)	9e-04	0.677169938818245
+SEMA4D|PTPRC	CD8+ cytotoxic T cells (GZMK+)|SPP1+ macrophages	9e-04	-0.473931188332412
+CD44|TYROBP	SPP1+ macrophages|CD8+ cytotoxic T cells (GZMK+)	1	0.295135249000818
+CD74|APP	FOLR2+ macrophages|CD8+ exhausted T cells	1	1.09828479572342
+FPR3|ANXA1	FOLR2+ macrophages|CD8+ exhausted T cells	9e-04	0.242450073677701
+FPR1|ANXA1	FOLR2+ macrophages|CD8+ exhausted T cells	9e-04	-0.2688167584278
+ERBB4|EREG	FOLR2+ macrophages|CD8+ exhausted T cells	1	-2.50838201838382
+CRTAM|CADM1	CD8+ exhausted T cells|FOLR2+ macrophages	0.008	-0.708396441969435
+CCR1|CCL5	FOLR2+ macrophages|CD8+ exhausted T cells	9e-04	0.396159489073155
+CD52|SIGLEC10	CD8+ exhausted T cells|FOLR2+ macrophages	9e-04	-0.685013514531485
+CD86|CTLA4	CD8+ exhausted T cells|FOLR2+ macrophages	1	-5.38082178394093
+CXCR4|CXCL12	FOLR2+ macrophages|CD8+ exhausted T cells	1	-0.730309873506487
+KLRC1|HLA-E	FOLR2+ macrophages|CD8+ exhausted T cells	1	-0.50732632165386
+KLRK1|HLA-E	FOLR2+ macrophages|CD8+ exhausted T cells	1	-0.500217879852688
+CD2|CD58	FOLR2+ macrophages|CD8+ exhausted T cells	1	-1.96015973546821
+CD22|PTPRC	FOLR2+ macrophages|CD8+ exhausted T cells	9e-04	0.422233000683048
+MRC1|PTPRC	FOLR2+ macrophages|CD8+ exhausted T cells	9e-04	0.660837367696284
+SEMA4D|PTPRC	CD8+ exhausted T cells|FOLR2+ macrophages	9e-04	-0.0755200076409777
+CD44|TYROBP	FOLR2+ macrophages|CD8+ exhausted T cells	1	-0.202571917847687
+CD74|APP	SPP1+ macrophages|CD8+ exhausted T cells	1	0.206643223983395
+FPR3|ANXA1	SPP1+ macrophages|CD8+ exhausted T cells	9e-04	-0.134477040860036
+FPR1|ANXA1	SPP1+ macrophages|CD8+ exhausted T cells	9e-04	-0.397828209246621
+ERBB4|EREG	SPP1+ macrophages|CD8+ exhausted T cells	1	-2.86903863389628
+CRTAM|CADM1	CD8+ exhausted T cells|SPP1+ macrophages	0.908	-1.06793882865658
+CCR1|CCL5	SPP1+ macrophages|CD8+ exhausted T cells	9e-04	0.353887836284907
+CD52|SIGLEC10	CD8+ exhausted T cells|SPP1+ macrophages	9e-04	-0.727379545337008
+CD86|CTLA4	CD8+ exhausted T cells|SPP1+ macrophages	1	-6.38082178394093
+CXCR4|CXCL12	SPP1+ macrophages|CD8+ exhausted T cells	1	-1.44754692892531
+KLRC1|HLA-E	SPP1+ macrophages|CD8+ exhausted T cells	1	-0.50732632165386
+KLRK1|HLA-E	SPP1+ macrophages|CD8+ exhausted T cells	1	-0.502259911390907
+CD2|CD58	SPP1+ macrophages|CD8+ exhausted T cells	1	-2.09541956507868
+CD22|PTPRC	SPP1+ macrophages|CD8+ exhausted T cells	1	0.411426245726465
+MRC1|PTPRC	SPP1+ macrophages|CD8+ exhausted T cells	9e-04	0.684369929013007
+SEMA4D|PTPRC	CD8+ exhausted T cells|SPP1+ macrophages	9e-04	-0.380821783940931
+CD44|TYROBP	SPP1+ macrophages|CD8+ exhausted T cells	1	0.283329168051641
+CD74|APP	CD8+ cytotoxic T cells (GNLY+)|FOLR2+ macrophages	1	-0.880975896857725
+FPR3|ANXA1	CD8+ cytotoxic T cells (GNLY+)|FOLR2+ macrophages	1	-0.141983485107171
+FPR1|ANXA1	CD8+ cytotoxic T cells (GNLY+)|FOLR2+ macrophages	1	-0.141983485107171
+ERBB4|EREG	CD8+ cytotoxic T cells (GNLY+)|FOLR2+ macrophages	0.86	-1.38082178394093
+CRTAM|CADM1	FOLR2+ macrophages|CD8+ cytotoxic T cells (GNLY+)	1	-4.18442457113743
+CCR1|CCL5	CD8+ cytotoxic T cells (GNLY+)|FOLR2+ macrophages	1	-2.67116353577046
+CD52|SIGLEC10	FOLR2+ macrophages|CD8+ cytotoxic T cells (GNLY+)	1	-3.05889368905357
+CD86|CTLA4	FOLR2+ macrophages|CD8+ cytotoxic T cells (GNLY+)	9e-04	-0.481968507397831
+CXCR4|CXCL12	CD8+ cytotoxic T cells (GNLY+)|FOLR2+ macrophages	9e-04	0.804879608254673
+KLRC1|HLA-E	CD8+ cytotoxic T cells (GNLY+)|FOLR2+ macrophages	9e-04	0.00575926928868495
+KLRK1|HLA-E	CD8+ cytotoxic T cells (GNLY+)|FOLR2+ macrophages	9e-04	0.353887836284907
+CD2|CD58	CD8+ cytotoxic T cells (GNLY+)|FOLR2+ macrophages	9e-04	-0.179514657013621
+CD22|PTPRC	CD8+ cytotoxic T cells (GNLY+)|FOLR2+ macrophages	1	-0.510865118474424
+MRC1|PTPRC	CD8+ cytotoxic T cells (GNLY+)|FOLR2+ macrophages	1	-0.510865118474424
+SEMA4D|PTPRC	FOLR2+ macrophages|CD8+ cytotoxic T cells (GNLY+)	9e-04	0.633198686374004
+CD44|TYROBP	CD8+ cytotoxic T cells (GNLY+)|FOLR2+ macrophages	9e-04	1.12498976997866
+CD74|APP	CD8+ cytotoxic T cells (GZMK+)|FOLR2+ macrophages	0.027	-0.45600928033515
+FPR3|ANXA1	CD8+ cytotoxic T cells (GZMK+)|FOLR2+ macrophages	1	-0.141983485107171
+FPR1|ANXA1	CD8+ cytotoxic T cells (GZMK+)|FOLR2+ macrophages	1	-0.141983485107171
+ERBB4|EREG	CD8+ cytotoxic T cells (GZMK+)|FOLR2+ macrophages	0.928	-1.43050890804128
+CRTAM|CADM1	FOLR2+ macrophages|CD8+ cytotoxic T cells (GZMK+)	1	-3.77595972578207
+CCR1|CCL5	CD8+ cytotoxic T cells (GZMK+)|FOLR2+ macrophages	1	-2.88896868761126
+CD52|SIGLEC10	FOLR2+ macrophages|CD8+ cytotoxic T cells (GZMK+)	1	-3.11064029688561
+CD86|CTLA4	FOLR2+ macrophages|CD8+ cytotoxic T cells (GZMK+)	9e-04	-0.380821783940931
+CXCR4|CXCL12	CD8+ cytotoxic T cells (GZMK+)|FOLR2+ macrophages	9e-04	0.792438930064638
+KLRC1|HLA-E	CD8+ cytotoxic T cells (GZMK+)|FOLR2+ macrophages	1	-0.217591435072627
+KLRK1|HLA-E	CD8+ cytotoxic T cells (GZMK+)|FOLR2+ macrophages	9e-04	0.418999465431266
+CD2|CD58	CD8+ cytotoxic T cells (GZMK+)|FOLR2+ macrophages	9e-04	-0.395928676331139
+CD22|PTPRC	CD8+ cytotoxic T cells (GZMK+)|FOLR2+ macrophages	1	-0.510865118474424
+MRC1|PTPRC	CD8+ cytotoxic T cells (GZMK+)|FOLR2+ macrophages	1	-0.50635266602479
+SEMA4D|PTPRC	FOLR2+ macrophages|CD8+ cytotoxic T cells (GZMK+)	9e-04	0.55581615506164
+CD44|TYROBP	CD8+ cytotoxic T cells (GZMK+)|FOLR2+ macrophages	9e-04	1.16414264884831
+CD74|APP	CD8+ exhausted T cells|FOLR2+ macrophages	0.952	-0.72499295250013
+FPR3|ANXA1	CD8+ exhausted T cells|FOLR2+ macrophages	1	-0.141983485107171
+FPR1|ANXA1	CD8+ exhausted T cells|FOLR2+ macrophages	1	-0.134477040860036
+ERBB4|EREG	CD8+ exhausted T cells|FOLR2+ macrophages	0.908	-1.40354186044101
+CRTAM|CADM1	FOLR2+ macrophages|CD8+ exhausted T cells	1	-4.18442457113743
+CCR1|CCL5	CD8+ exhausted T cells|FOLR2+ macrophages	1	-2.70839644196944
+CD52|SIGLEC10	FOLR2+ macrophages|CD8+ exhausted T cells	1	-3.05889368905357
+CD86|CTLA4	FOLR2+ macrophages|CD8+ exhausted T cells	9e-04	0.368489000645104
+CXCR4|CXCL12	CD8+ exhausted T cells|FOLR2+ macrophages	9e-04	0.743299527888257
+KLRC1|HLA-E	CD8+ exhausted T cells|FOLR2+ macrophages	1	-0.171368418311981
+KLRK1|HLA-E	CD8+ exhausted T cells|FOLR2+ macrophages	9e-04	0.32077347694587
+CD2|CD58	CD8+ exhausted T cells|FOLR2+ macrophages	9e-04	-0.229382353343797
+CD22|PTPRC	CD8+ exhausted T cells|FOLR2+ macrophages	1	-0.510865118474424
+MRC1|PTPRC	CD8+ exhausted T cells|FOLR2+ macrophages	1	-0.488026018218199
+SEMA4D|PTPRC	FOLR2+ macrophages|CD8+ exhausted T cells	9e-04	0.563646269484064
+CD44|TYROBP	CD8+ exhausted T cells|FOLR2+ macrophages	9e-04	1.0264459803038
+CD74|APP	CD8+ cytotoxic T cells (GNLY+)|SPP1+ macrophages	1	-0.783389931257558
+FPR3|ANXA1	CD8+ cytotoxic T cells (GNLY+)|SPP1+ macrophages	1	-0.0356553577201986
+FPR1|ANXA1	CD8+ cytotoxic T cells (GNLY+)|SPP1+ macrophages	1	-0.0356553577201986
+ERBB4|EREG	CD8+ cytotoxic T cells (GNLY+)|SPP1+ macrophages	9e-04	-0.140825544133565
+CRTAM|CADM1	SPP1+ macrophages|CD8+ cytotoxic T cells (GNLY+)	1	-3.7178567712185
+CCR1|CCL5	CD8+ cytotoxic T cells (GNLY+)|SPP1+ macrophages	1	-2.21759143507263
+CD52|SIGLEC10	SPP1+ macrophages|CD8+ cytotoxic T cells (GNLY+)	1	-1.69432125675771
+CD86|CTLA4	SPP1+ macrophages|CD8+ cytotoxic T cells (GNLY+)	9e-04	-0.846843211938579
+CXCR4|CXCL12	CD8+ cytotoxic T cells (GNLY+)|SPP1+ macrophages	1	0.771463058365651
+KLRC1|HLA-E	CD8+ cytotoxic T cells (GNLY+)|SPP1+ macrophages	9e-04	-0.397828209246621
+KLRK1|HLA-E	CD8+ cytotoxic T cells (GNLY+)|SPP1+ macrophages	9e-04	0.0468402542029724
+CD2|CD58	CD8+ cytotoxic T cells (GNLY+)|SPP1+ macrophages	9e-04	-0.265344566520995
+CD22|PTPRC	CD8+ cytotoxic T cells (GNLY+)|SPP1+ macrophages	1	-0.94279046717655
+MRC1|PTPRC	CD8+ cytotoxic T cells (GNLY+)|SPP1+ macrophages	1	-0.94279046717655
+SEMA4D|PTPRC	SPP1+ macrophages|CD8+ cytotoxic T cells (GNLY+)	9e-04	0.622930350920177
+CD44|TYROBP	CD8+ cytotoxic T cells (GNLY+)|SPP1+ macrophages	9e-04	1.07519031415522
+CD74|APP	CD8+ cytotoxic T cells (GZMK+)|SPP1+ macrophages	9e-04	-0.382701517159154
+FPR3|ANXA1	CD8+ cytotoxic T cells (GZMK+)|SPP1+ macrophages	1	-0.0356553577201986
+FPR1|ANXA1	CD8+ cytotoxic T cells (GZMK+)|SPP1+ macrophages	1	-0.0356553577201986
+ERBB4|EREG	CD8+ cytotoxic T cells (GZMK+)|SPP1+ macrophages	9e-04	-0.161653263478769
+CRTAM|CADM1	SPP1+ macrophages|CD8+ cytotoxic T cells (GZMK+)	1	-3.42662547355406
+CCR1|CCL5	CD8+ cytotoxic T cells (GZMK+)|SPP1+ macrophages	1	-2.38082178394093
+CD52|SIGLEC10	SPP1+ macrophages|CD8+ cytotoxic T cells (GZMK+)	1	-1.71202323155269
+CD86|CTLA4	SPP1+ macrophages|CD8+ cytotoxic T cells (GZMK+)	9e-04	-0.717856771218502
+CXCR4|CXCL12	CD8+ cytotoxic T cells (GZMK+)|SPP1+ macrophages	1	0.758729568457863
+KLRC1|HLA-E	CD8+ cytotoxic T cells (GZMK+)|SPP1+ macrophages	1	-0.701341684435485
+KLRK1|HLA-E	CD8+ cytotoxic T cells (GZMK+)|SPP1+ macrophages	9e-04	0.126972856257766
+CD2|CD58	CD8+ cytotoxic T cells (GZMK+)|SPP1+ macrophages	9e-04	-0.494109070270043
+CD22|PTPRC	CD8+ cytotoxic T cells (GZMK+)|SPP1+ macrophages	1	-0.94279046717655
+MRC1|PTPRC	CD8+ cytotoxic T cells (GZMK+)|SPP1+ macrophages	1	-0.937878288092203
+SEMA4D|PTPRC	SPP1+ macrophages|CD8+ cytotoxic T cells (GZMK+)	9e-04	0.544979883255804
+CD44|TYROBP	CD8+ cytotoxic T cells (GZMK+)|SPP1+ macrophages	9e-04	1.11569915343159
+CD74|APP	CD8+ exhausted T cells|SPP1+ macrophages	0.839	-0.63710935733414
+FPR3|ANXA1	CD8+ exhausted T cells|SPP1+ macrophages	1	-0.0356553577201986
+FPR1|ANXA1	CD8+ exhausted T cells|SPP1+ macrophages	1	-0.0291463456595165
+ERBB4|EREG	CD8+ exhausted T cells|SPP1+ macrophages	9e-04	-0.148800661406706
+CRTAM|CADM1	SPP1+ macrophages|CD8+ exhausted T cells	1	-3.7178567712185
+CCR1|CCL5	CD8+ exhausted T cells|SPP1+ macrophages	1	-2.25153876699596
+CD52|SIGLEC10	SPP1+ macrophages|CD8+ exhausted T cells	1	-1.69432125675771
+CD86|CTLA4	SPP1+ macrophages|CD8+ exhausted T cells	9e-04	0.177598929327733
+CXCR4|CXCL12	CD8+ exhausted T cells|SPP1+ macrophages	1	0.709290635723358
+KLRC1|HLA-E	CD8+ exhausted T cells|SPP1+ macrophages	1	-0.63710935733414
+KLRK1|HLA-E	CD8+ exhausted T cells|SPP1+ macrophages	9e-04	0.00432160595009347
+CD2|CD58	CD8+ exhausted T cells|SPP1+ macrophages	9e-04	-0.318325858207167
+CD22|PTPRC	CD8+ exhausted T cells|SPP1+ macrophages	1	-0.94279046717655
+MRC1|PTPRC	CD8+ exhausted T cells|SPP1+ macrophages	1	-0.910501849160897
+SEMA4D|PTPRC	SPP1+ macrophages|CD8+ exhausted T cells	9e-04	0.552868871011303
+CD44|TYROBP	CD8+ exhausted T cells|SPP1+ macrophages	9e-04	0.973060172804084
